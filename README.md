@@ -1,10 +1,10 @@
 # 💫 About Me:
-🎓 Master Degree AI Systems at Epita School
-🔭 Learning and Developing Machine Learning based projects in Python
-🌱 Enthusiast in Artificial Intelligence and Large Language models
-💬 Ask me anything about AI, ML and LLM. 
-♕ I'm chess competitive player also
-📫 Email: yazid.ben-madani@epita.fr
+-🎓 Master Degree AI Systems at Epita School
+-🔭 Learning and Developing Machine Learning based projects in Python
+-🌱 Enthusiast in Artificial Intelligence and Large Language models
+-💬 Ask me anything about AI, ML and LLM. 
+-♕ I'm chess competitive player also
+-📫 Email: yazid.ben-madani@epita.fr
 
 
 ## 🌐 Socials:
